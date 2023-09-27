@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DF1616&title_bg=%2373AED3&icon=Github-181717.svg&icon_color=%230B0B0B&title=hits&edge_flat=false)](https://github.com/kkmw0)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmw0915)](https://solved.ac/kmw0915/)
 
 
